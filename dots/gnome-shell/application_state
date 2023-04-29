@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.TextEditor.desktop" score="27.5" last-seen="1682768979"/>
+    <application id="chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="633.375" last-seen="1682611556"/>
+    <application id="chrome-ejhkdoiecgkmdpomoahkdihbcldkgjci-Default.desktop" score="15" last-seen="1682406742"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0.625" last-seen="1682527310"/>
+    <application id="Alacritty.desktop" score="0.5" last-seen="1682408955"/>
+    <application id="firefox.desktop" score="2" last-seen="1682416290"/>
+    <application id="org.gnome.tweaks.desktop" score="39" last-seen="1682434881"/>
+    <application id="jetbrains-pycharm.desktop" score="13.625" last-seen="1682420102"/>
+    <application id="org.gnome.Weather.desktop" score="2.625" last-seen="1682573928"/>
+    <application id="org.gnome.eog.desktop" score="1" last-seen="1682432364"/>
+    <application id="jetbrains-studio.desktop" score="7.625" last-seen="1682358671"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="3" last-seen="1682404314"/>
+    <application id="jetbrains-toolbox.desktop" score="3" last-seen="1682419509"/>
+    <application id="org.gnome.Software.desktop" score="23.5" last-seen="1682686144"/>
+    <application id="virtualbox.desktop" score="7.875" last-seen="1682527956"/>
+    <application id="org.gnome.Polari.desktop" score="6.875" last-seen="1682400961"/>
+    <application id="jetbrains-clion.desktop" score="7" last-seen="1682514278"/>
+    <application id="com.discordapp.Discord.desktop" score="51" last-seen="1682691533"/>
+    <application id="code.desktop" score="2455.5" last-seen="1682698542"/>
+    <application id="org.gnome.Settings.desktop" score="30.75" last-seen="1682442372"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="0" last-seen="1682408287"/>
+    <application id="jetbrains-idea.desktop" score="5.75" last-seen="1682420648"/>
+    <application id="org.gnome.Calculator.desktop" score="0.875" last-seen="1682400977"/>
+    <application id="libreoffice-writer.desktop" score="435.375" last-seen="1682572260"/>
+    <application id="jetbrains-rider.desktop" score="4.5" last-seen="1682402404"/>
+    <application id="org.gnome.Terminal.desktop" score="1054" last-seen="1682768824"/>
+    <application id="org.gnome.Calendar.desktop" score="0.875" last-seen="1682401445"/>
+    <application id="com.spotify.Client.desktop" score="16.5" last-seen="1682530144"/>
+    <application id="org.gnome.DiskUtility.desktop" score="23.375" last-seen="1682416822"/>
+    <application id="com.obsproject.Studio.desktop" score="60.625" last-seen="1682529255"/>
+    <application id="gnome-system-monitor-kde.desktop" score="3" last-seen="1682420314"/>
+    <application id="jetbrains-webstorm.desktop" score="127" last-seen="1682695298"/>
+    <application id="org.gnome.Nautilus.desktop" score="992.625" last-seen="1682768979"/>
+    <application id="org.gnome.Evince.desktop" score="2556" last-seen="1682671156"/>
+    <application id="chrome-mjoklplbddabcmpepnokjaffbmgbkkgg-Default.desktop" score="3" last-seen="1682416291"/>
+    <application id="libreoffice-calc.desktop" score="2.625" last-seen="1682163509"/>
+    <application id="jetbrains-phpstorm.desktop" score="0.5" last-seen="1682402502"/>
+    <application id="google-chrome.desktop" score="24172.625" last-seen="1682768795"/>
+    <application id="jetbrains-datagrip.desktop" score="1" last-seen="1682402257"/>
+    <application id="jetbrains-goland.desktop" score="2.5" last-seen="1682419656"/>
+    <application id="org.gnome.Extensions.desktop" score="93.75" last-seen="1682528473"/>
+  </context>
+</application-state>
